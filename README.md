@@ -19,5 +19,5 @@ It can generate short instrumental soundscapes or rhythmic melodies from **text 
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/yourusername/project-15-music-generation-groq.git
+git clone 
 cd project-15-music-generation-groq
