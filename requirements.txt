@@ -1,0 +1,9 @@
+streamlit
+python-dotenv
+numpy
+scipy
+soundfile
+pydub
+langchain-groq
+torch
+torchaudio
